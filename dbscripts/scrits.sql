@@ -1,1 +1,1 @@
-create schema sf_demo_1;
+create schema sf_demo_1 ;
